@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   var typingText = document.querySelector(".typing-text span");
-  var text = "ZEERO"; // Replace this with the desired text
+  var text = ""; // Replace this with the desired text
   var i = 0;
 
   function typeText() {
