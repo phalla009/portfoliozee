@@ -416,9 +416,9 @@ p {
   }
 
   .box_Education {
-    width: 350px; /* Reduce size */
+    width: 340px; /* Reduce size */
     height: 450px;
-    margin: 50px auto;
+    margin-left: -5px;
   }
 
   .logo_box img,
